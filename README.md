@@ -50,3 +50,5 @@ export default tseslint.config({
 ```
 python3 -m http.server 5173
 the above is used to create a server forwarded to port 5173.
+
+this is the appid = 0b69c6f8-ba81-4c44-b2a3-d7ca92fcca18
